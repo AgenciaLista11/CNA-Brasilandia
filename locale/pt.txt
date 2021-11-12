@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Sem Título 2
+tour.name = CNA Brasilândia - Tour Virtual 360º
 
 ## Skin
 
